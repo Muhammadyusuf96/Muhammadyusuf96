@@ -1,4 +1,4 @@
-## Assalomu alaykum!
+## Assalomu alaykum! ![Profile views](https://gpvc.arturio.dev/muhammadyusuf96)
 
 ### 👦 **About me**:
 - **I'm actually electrical engineer ⚡**
@@ -19,11 +19,6 @@
 ###  🐙 **Github stats**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=muhammadyusuf96&show_icons=true&theme=radical)
-
-![Profile views](https://gpvc.arturio.dev/muhammadyusuf96)
-![GitHub followers](https://img.shields.io/github/followers/muhammadyusuf96?&label=Followers)
-![GitHub user's stars](https://img.shields.io/github/stars/muhammadyusuf96?affiliations=OWNER&label=Stars)
-
 
 ### 🕒 **Wakatime stats**
 
