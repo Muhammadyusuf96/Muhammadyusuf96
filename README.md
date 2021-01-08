@@ -4,7 +4,7 @@
 - **I'm actually electrical engineer ⚡**
 - **I like computer science 👨‍💻**
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusuf96&show_icons=true&theme=radical&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusuf96&show_icons=true&theme=dark&layout=compact)
 
 **My tech stack I use:**
 
@@ -16,10 +16,6 @@
 
 [![Fake mail](https://img.shields.io/badge/-Fakemail-2c3e50?style=flat-square&logo=mail.ru&logoColor=white)](mailto:vygnpge@hi2.in)
 
-###  🐙 **Github stats**
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=muhammadyusuf96&show_icons=true&theme=radical)
-
 ### 🕒 **Wakatime stats**
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadyusuf96&theme=radical)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadyusuf96&theme=dark)
