@@ -1,4 +1,4 @@
-##Assalomu alaykum!
+## Assalomu alaykum!
 
 ### 👦 **About me**:
 - **I'm actually electrical engineer ⚡**
