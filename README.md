@@ -1,7 +1,7 @@
-##Assalomu alaykum!</h3>
+##Assalomu alaykum!
 
 ### 👦 **About me**:
-- **I'm actually electrical engineer ⚡⚡️**
+- **I'm actually electrical engineer ⚡**
 - **I like computer science 👨‍💻**
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusuf96&show_icons=true&theme=radical&layout=compact)
