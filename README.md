@@ -22,4 +22,4 @@
 
 ### 🕒 **Wakatime stats**
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadyusuf96&layout=compact&theme=radical)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadyusuf96&theme=radical)
