@@ -14,7 +14,7 @@
 
 **Contact:**
 
-[![Fake mail](https://img.shields.io/badge/-Fakemail-2c3e50?style=flat-square&logo=mail.ru&logoColor=white)](mailto:vygnpge@hi2.in)
+[![Fake mail](https://img.shields.io/badge/-Fakemail-2c3e50?style=flat-square&logo=mail.ru)](mailto:vygnpge@hi2.in)
 
 ### 🕒 **Wakatime stats**
 
