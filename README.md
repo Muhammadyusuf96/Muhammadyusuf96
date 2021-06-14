@@ -1,4 +1,4 @@
-## Assalomu alaykum! ![Profile views](https://gpvc.arturio.dev/muhammadyusuf96)
+## Assalomu alaykum!
 
 ### 👦 **About me**:
 - **I'm actually electrical engineer ⚡**
