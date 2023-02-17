@@ -6,7 +6,7 @@
 
 **Contact:**
 
-[![mail](https://img.shields.io/badge/-Fakemail-2c3e50?style=flat-square&logo=mail.ru)](mailto:vygnpge@hi2.in)
+[![mail](https://img.shields.io/badge/-e--mail-2c3e50?style=flat-square&logo=mail.ru)](mailto:vygnpge@hi2.in)
 
 **My tech stack I use:**
 
